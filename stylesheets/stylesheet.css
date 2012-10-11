@@ -122,6 +122,7 @@ aside#sidebar {
 aside#sidebar p.repo-owner,
 aside#sidebar p.repo-owner a {
   font-weight: bold;
+  visibility: hidden;
 }
 
 #downloads {
@@ -147,6 +148,7 @@ header a.button {
   right: 0;
   top: 0;
   background: transparent url(../images/github-button.png) 0 0 no-repeat;
+  visibility: hidden;
 }
 aside a.button {
   width: 138px;
